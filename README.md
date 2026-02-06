@@ -5,7 +5,7 @@ Mục tiêu: Hiểu bản chất bộ nhớ, phân tích toán học và tối �
 
 📊 Trạng Thái Học Tập
 
-[ ] Tiến độ tổng quát: 0/45 Ngày
+[x] Tiến độ tổng quát: 0/45 Ngày
 
 [ ] Chương đã đọc: 0/12
 
